@@ -59,7 +59,7 @@
     "uglify-js": "^3.0.20"
   },
   "dependencies": {
-    "can-reflect": "^1.4.1",
+    "can-reflect": "1.4.4",
     "can-util": "^3.5.1",
     "can-vdom": "^3.1.1",
     "can-zone": "^0.6.11",
