@@ -61,7 +61,7 @@
   "dependencies": {
     "can-reflect": "^1.4.1",
     "can-util": "^3.10.10",
-    "can-vdom": "^3.1.1",
+    "can-vdom": "3.2.4",
     "can-zone": "^0.6.11",
     "dom-patch": "^2.1.1",
     "done-ssr-incremental-rendering-client": "^2.0.1",
